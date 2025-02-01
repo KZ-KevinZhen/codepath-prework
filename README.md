@@ -16,6 +16,7 @@ The following **required** functionality is completed:
  
 Recording:
 ![](https://i.imgur.com/xLCGCLA.gif)
+<img src="https://i.imgur.com/xLCGCLA.gif" width="300">
 
 
 ## App Brainstorming (Step 4)
