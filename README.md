@@ -15,8 +15,7 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 Recording:
-![](https://i.imgur.com/xLCGCLA.gif)
-<img src="https://i.imgur.com/xLCGCLA.gif" width="300">
+<img src="https://i.imgur.com/xLCGCLA.gif" width="500">
 
 
 ## App Brainstorming (Step 4)
