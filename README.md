@@ -14,6 +14,9 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
+Recording:
+![](https://i.imgur.com/xLCGCLA.gif)
+
 
 ## App Brainstorming (Step 4)
 
